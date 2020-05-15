@@ -3,4 +3,4 @@
 ___
 [AtCoderDPContest](https://atcoder.jp/contests/dp/tasks)
 ___
-Contributions to this repositary are Welcomed.
+Contributions to this repository are Welcomed.
